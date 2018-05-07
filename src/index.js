@@ -29,11 +29,9 @@ ReactDOM.render((
   <Provider store={ReduxStore}>
          <BrowserRouter>
          <div>
-            <Contentheader />
+      <Contentheader />
             <ContentApp />
          </div>
         </BrowserRouter>
   </Provider>
 ), document.getElementById('root'))
-
-
