@@ -1,0 +1,32 @@
+body { padding: 10px;}
+
+.gap{
+ margin:10px;
+
+}
+
+.Hide{display:none}
+.Show{display:inline}
+
+inputasd:invalid{border:1px solid red}
+inputasd:valid{border:1px solid black}
+
+.rowgap{padding:10px}
+
+.linegap{padding:3px}
+.margingap{margin:20px}
+.controlverticalgap{margin:4px}
+
+.deal{
+    font-size: 12px;
+    color: #fff;
+    background-color: #388e3c;
+    text-align: center;
+    padding: 4px 12px;
+    text-transform: uppercase;
+    pointer-events: none;
+    position: absolute;
+    left: 0px;
+    width: auto;
+    top: 18px;
+}
